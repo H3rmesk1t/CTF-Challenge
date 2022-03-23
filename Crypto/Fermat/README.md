@@ -1,0 +1,1 @@
+参考[zer0ptsCTF-anti_fermat](https://github.com/epicleet/write-ups/tree/master/2022/zer0ptsCTF/crypto/anti_fermat).
